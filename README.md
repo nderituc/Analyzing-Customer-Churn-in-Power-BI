@@ -5,6 +5,7 @@ I answered these questions by creating measures and calculated columns, while si
 I started with exploring the dataset and creating measures in Power BI to get a better understanding of why customers are churning.
 I investigated churn patterns to understand more why customers are leaving Databel.
 I then created dashboard-style pages and arranged them into stories, to share the results with stakeholders.
+### Final Report
 ## Overview 
 ![Screenshot (5436)](https://github.com/user-attachments/assets/8ee0a23a-59a6-4ecd-ba34-90e13359b9be)
 
