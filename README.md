@@ -17,6 +17,14 @@ I then created dashboard-style pages and arranged them into stories, to share th
 ## Unlimited Plan
 ![Screenshot (5439)](https://github.com/user-attachments/assets/5b6558a7-2278-4a96-81f9-032ba7883d94)
 
+## International Calls
+![Screenshot (5440)](https://github.com/user-attachments/assets/7765768d-3f83-4b89-bda6-d267d25474bb)
+
+## Contract Type
+![Screenshot (5441)](https://github.com/user-attachments/assets/a0f4b535-680b-4c84-9cd4-1e807300bd99)
+
+
+
 
 
 
